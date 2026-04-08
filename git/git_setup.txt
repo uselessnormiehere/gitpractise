@@ -1,0 +1,5 @@
+git config --global user.name "your name"
+
+git config --global user.name "your email"
+
+#this information is very important for 1st time setup 
