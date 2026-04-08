@@ -1,1 +1,0 @@
-git commit -m "describe what you are commiting" 

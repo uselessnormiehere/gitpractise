@@ -1,5 +1,0 @@
-# anything ahead of this is comment
-git add <filename> # for single file
-git add /<foldername> #for folder [git does not track empty folder]
-git add . # add all files and folders to staging
-git add /<foldername>/<filename> # for adding one file form folder
